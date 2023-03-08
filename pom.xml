@@ -9,10 +9,10 @@
 		<version>2.3.10.RELEASE</version>
 		<relativePath />
 	</parent>
-	<groupId>com.projetozup</groupId>
-	<artifactId>ProjetoZup</artifactId>
+	<groupId>br.com.coachit.omnipos</groupId>
+	<artifactId>api_usuario_aws</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ProjetoZup</name>
+
 	<description>Projeto gerado no intuito de criar um cadastro de usuários com seus endereços para a segunda etapa da Orange Talents da Zup Innovation</description>
 	<properties>
 		<java.version>1.8</java.version>
